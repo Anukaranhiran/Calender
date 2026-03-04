@@ -1,0 +1,5 @@
+{
+  "name": "Kyah Task Calendar",
+  "description": "An offline-first calendar and task manager with customizable notifications, link support, and daily tracking.",
+  "requestFramePermissions": ["notifications"]
+}
